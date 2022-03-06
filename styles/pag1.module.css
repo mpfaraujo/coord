@@ -1,0 +1,66 @@
+.pagina {
+    background: white ; 
+    display: block ; 
+    width: 21cm ; 
+    height: 29.7cm ; 
+    margin: 0 auto ; 
+    /* margin-bottom:  0.5cm ;  */
+    /* border:  0.025cm solid #000  */
+  }
+  .caixaTitulo {
+    display: grid ; 
+    grid-template-columns:  2fr 8fr 1fr ; 
+    justify-content: center ; 
+    gap: .5cm ; 
+    align-items: center ; 
+   padding:  3em 3em 1em 
+  }
+  
+  .titulo {
+     text-align: center ; 
+     font-size: 1.2em ; 
+     font-weight: bold ; 
+     font-family: serif 
+   }
+   .logo {
+      text-align: center ; 
+     font-family: Helvetica;   
+     font-weight: bold 
+   }
+   .subtitulo  {
+      text-align: center ; 
+     font-family: Helvetiva;  
+     font-weight: bold ; 
+     margin-top: 5px 
+   }
+   .caixaDireita  {
+     display: flex ; 
+     width: fit-content ; 
+     justify-content: space-between ; 
+     border: solid 1px 
+     ;  margin-left: 65% 
+   }
+   .dentroDaCaixinha {
+     justify-self: end ; 
+       text-align: right ; 
+       width: 100% ; 
+        font-size: .8em 
+      }
+      .caixa  {
+        width: 85% ; 
+        border: solid 1px ; 
+        margin: 0 auto ; 
+        padding: .5em ; 
+        font-family: sans ; 
+        margin-top: 1.5em ; 
+        margin-bottom: 1.5em ; 
+      }
+    .caixaCriterios  {
+      display: block ; 
+       text-align: justify ; 
+      font-family: sans ; 
+      margin: 0 auto ; 
+      width: 90% ; 
+      font-size: .8em ; 
+      margin-top: 1em ; 
+    }

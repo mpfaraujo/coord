@@ -1,0 +1,132 @@
+[
+ {
+  "nome": "Marcos Paulo Ferreira de Araujo",
+  "apelido": "Marcos Paulo",
+  "cpf": "01803258764",
+  "siape": "1549159",
+  "admissao": "21\/08\/2006",
+  "ultimaProg": "20\/02\/2020",
+  "turmas": [{"turma":"1AEVE", "materia":"Mat. A"},{"turma":"1AEVE", "materia":"Mat. B"},{"turma":"1AMET", "materia":"Mat. A"},{"turma":"1AMET", "materia":"Mat. B"},{"turma":"1AEL", "materia":"Mat. B"},{"turma":"1AED", "materia":"Mat. B"},{"turma":"4AED", "materia":"Matemática"}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Wellington Tatagiba de Carvalho",
+  "apelido": "Wellington",
+  "cpf": "9939844794",
+  "siape": "1499974",
+  "admissao": "08\/02\/2008",
+  "ultimaProg": "24\/02\/2020",
+ "turmas": [{"turma":"2BADM", "materia":"Mat. Instr."},{"turma":"2BINFO", "materia":"Matemática"},{"turma":"3BMEC", "materia":"Matemática"},{"turma":"3BINFO", "materia":"Matemática"},{"turma":"1AEVE", "materia":"Mat. Instr."},{"turma":"2BEL", "materia":"Matemática"},{"turma":"1BSEG", "materia":"Mat. A"}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Carlos Augusto Santos Carvalho",
+  "apelido": "Carlos",
+  "cpf": "53978714787",
+  "siape": "3912493",
+  "admissao": "12\/08\/1992",
+  "ultimaProg": null,
+ "turmas": [{"turma":"3AED", "materia":"Mat. Instr"},{"turma":"3AEVE", "materia":"Matemática"},{"turma":"3ATUR", "materia":"Matemática"},{"turma":"1AEST", "materia":"Mat. Instr."},{"turma":"1AED", "materia":"Mat. Instr."},{"turma":"2AEVE", "materia":"Matemática"},{"turma":"3AEST", "materia":"Matemática"},{"turma":"2AINFO", "materia":"Matemática"}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Robson Coelho Neves",
+  "apelido": "Robson",
+  "cpf": "63245558791",
+  "siape": "1028769",
+  "admissao": "13\/12\/1993",
+  "ultimaProg": null,
+ "turmas": [{"turma":"3AMEC", "materia":"Matemática"},{"turma":"3AINFO", "materia":"Matemática"},{"turma":"1AED", "materia":"Mat. A"},{"turma":"1BELT", "materia":"Mat. Instr."},{"turma":"2AELT", "materia":"Matemática"},{"turma":"1AINFO", "materia":"Mat. A"},{"turma":"3AED", "materia":"Matemjática"}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Gustavo Adolfo Martins Jotta Soares",
+  "apelido": "Gustavo Adolfo",
+  "cpf": "10000193739",
+  "siape": "2150074",
+  "admissao": "15\/08\/2014",
+  "ultimaProg": null,
+ "turmas": [{"turma":"2BSEG", "materia":"Mat. Instr."},{"turma":"2AEST", "materia":"Matemática"},{"turma":"1AINFO", "materia":"Mat. B"},{"turma":"1AELT", "materia":"Mat. B"},{"turma":"2AED", "materia":"Matemática"},{"turma":"1AEST", "materia":"Mat. B"},{"turma":"2AMET", "materia":"Matemática"}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Nilo Pinto da Silva Filho",
+  "apelido": "Nilo",
+  "cpf": "86617931734",
+  "siape": "994802",
+  "admissao": "23\/08\/1993",
+  "ultimaProg": "11\/11\/2021",
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Doutor"
+ },
+ {
+  "nome": "Marcelo Chaves Silva",
+  "apelido": "Marcelo",
+  "cpf": "01090040784",
+  "siape": "1638675",
+  "admissao": "07\/07\/2008",
+  "ultimaProg": "18\/08\/2019",
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Alcindo Marcio Santos de Miranda",
+  "apelido": "Alcindo",
+  "cpf": "73532711759",
+  "siape": "391303",
+  "admissao": null,
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Celso Marques da Silva Junior",
+  "apelido": "Celso",
+  "cpf": "10355961725",
+  "siape": "1620738",
+  "admissao": "26\/12\/2008",
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Doutor"
+ },
+ {
+  "nome": "Diogo Dantas de Sousa",
+  "apelido": "Diogo",
+  "cpf": "10475456750",
+  "siape": "2360732",
+  "admissao": null,
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Haroldo Costa Silva Filho",
+  "apelido": "Haroldo",
+  "cpf": "2091439754",
+  "siape": "1080696",
+  "admissao": "26\/02\/2014",
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Paulo Cesar Sampaio Junior",
+  "apelido": "Paulo Cesar",
+  "cpf": "5207552783",
+  "siape": "2095931",
+  "admissao": "26\/02\/2014",
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ },
+ {
+  "nome": "Sergio Roberto de Araujo",
+  "apelido": "Sergio",
+  "cpf": "66805023734",
+  "siape": "390738",
+  "admissao": null,
+  "ultimaProg": null,
+ "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+  "titulação": "Mestre"
+ }
+]

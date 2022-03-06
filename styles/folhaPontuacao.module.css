@@ -1,0 +1,109 @@
+.corpo{
+    background:#ccc;
+
+
+}
+.page {
+    background: white;
+    display: block;
+    margin: 0 auto;
+  
+  }
+  .sizeA4 {  
+    width: 21cm;
+    height: 29.7cm; 
+  }
+  .container{
+    display:grid;
+    grid-template-columns: 2fr 8fr 1fr;
+    justify-content:center;
+    gap:.5cm;
+    align-items:center;
+   padding: 3em 3em 1em;
+  }
+  .titulo{
+   text-align:center;
+    font-size:1.2em;
+    font-weight:bold;
+    font-family:serif;
+  }
+  .logo{
+    text-align:center;
+    font-family:Helvetica, sans-serif;
+    font-weight:bold;
+  }
+  .subtitulo{
+    width:100%;
+    text-align:center;
+    padding-top:0;
+    margin-top:0;
+    font-family:sans-serif;
+    font-size:.9em;
+  }
+  .pontuacao{
+    width:100%;
+    text-align:center;
+  margin:0 auto;
+    font-family:sans-serif;
+    font-size:.9em;
+  }
+  .pontuacao  .table, .td, .tr, .th{
+    border:solid 1px;
+    border-collapse:collapse;
+    margin:0 auto;
+    padding:.25em;
+    margin-bottom:.5em;
+  }
+  .header{
+    background:lightgray;
+  }
+  .parecer{
+    font-family:sans;
+    font-size:.9em;
+    margin:0 auto;
+    border: solid 1px;
+    max-width:80%;
+    padding:.5em;
+    text-align:center;
+    border:solid 1px;
+  }
+  .tabparecer{
+      border-collapse:collapse;
+    margin:0 auto;
+    padding:.0em;
+    margin-bottom:.5em;
+    table-layout:fixed;
+    width:100%;
+    font-size:.7em;
+  }
+  .linha1{
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    width: 390px;
+  }
+  .linha2{
+    display: inline-block;
+    border-bottom: 1px solid #000;
+    width: 100px;
+  }
+  .espaco{
+    margin:.5em;
+  }.espaco2{
+    margin:4em;
+  }
+  .parecerChefia{
+    margin-top:1em;
+    font-family:sans;
+    font-size:.9em;
+    margin:0 auto;
+    border: solid 1px;
+    max-width:80%;
+    padding:.5em;
+    text-align:center;
+    border:solid 1px;
+  }
+  @media print and (width: 21cm) and (height: 29.7cm) {
+    @page {
+       size: A4 portrait;
+    }
+   }

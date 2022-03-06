@@ -1,0 +1,52 @@
+.select {
+  display:flex;
+    margin: .5em;
+    width: 150px;
+    padding: 5px 35px 5px 5px;
+    font-size: 16px;
+    border: 1px solid inherit;
+    height: 34px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(/cefet.svg) 96% / 15% no-repeat;
+  }
+  .form{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:50px;
+    margin:0 auto;
+    background-color: whitesmoke;
+
+  }
+  .container{
+    display:block;
+    background-color: whitesmoke;
+    margin:0 auto;
+    padding: 1em;
+
+
+  }
+  .box{
+    display:flex;
+    border:solid 1px;
+    align-items: center;;
+    border-radius: 15px;
+    background:white;
+    max-width: 80%;
+  }
+  .button{
+    width:10em;
+    height:3em;
+    padding:.5em;
+    border-radius: 15px;
+    margin:0 auto;
+    background-color:dodgerblue;
+    color:aliceblue;
+  }
+  .button:hover{
+    background-color: lightcyan;
+    color:maroon;
+    cursor:pointer;
+    
+  }
