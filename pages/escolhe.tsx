@@ -15,7 +15,7 @@ function Escolhe() {
     const router=useRouter()
     const { register, handleSubmit} = useForm();
     const onSubmit = handleSubmit((data) => router.push(`/?nome=${data?.nome}&av1=${data?.av1}&av2=${data?.av2}&av3=${data.av3}`));
-
+    const exibeHorario = handleSubmit((data)=>router.push(`/horario?prof=${data?.nome}`))
 
     return (
 
@@ -107,8 +107,10 @@ function Escolhe() {
 <input type="submit" className={styles.button}/>
 
 </div>
-
-    </form> </div>
+<button onClick={exibeHorario} className={styles.button}>Quero saber meu Horário</button>
+    </form> 
+    
+    </div>
   );
 
 }

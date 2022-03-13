@@ -56,7 +56,7 @@
   "siape": "994802",
   "admissao": "23\/08\/1993",
   "ultimaProg": "11\/11\/2021",
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"2BELT", "materia":"Matemática"},{"turma":"2BSEG", "materia":"Matemática"},{"turma":"1BED", "materia":"Mat. B"},{"turma":"1BELT", "materia":"Mat. B"},{"turma":"1BTEL", "materia":"Mat. B"},{"turma":"1BMEC", "materia":"Mat. B"},{"turma":"1BEL", "materia":"Mat. B"}],
   "titulação": "Doutor"
  },
  {
@@ -66,7 +66,7 @@
   "siape": "1638675",
   "admissao": "07\/07\/2008",
   "ultimaProg": "18\/08\/2019",
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"3BED", "materia":"Matemática"},{"turma":"3BEL", "materia":"Matemática"},{"turma":"1AMEC", "materia":"Mat. B"},{"turma":"4AEST", "materia":"Matemática"},{"turma":"2AEL", "materia":"Matemática"},{"turma":"4BED", "materia":"Matemática"},{"turma":"1AINFO", "materia":"Mat. A"}],
   "titulação": "Mestre"
  },
  {
@@ -76,7 +76,7 @@
   "siape": "391303",
   "admissao": null,
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"2BMEC", "materia":"Matemática"},{"turma":"3BELT", "materia":"Matemática"},{"turma":"2BED", "materia":"Matemática"},{"turma":"3AMEC", "materia":"Mat. Instr."},{"turma":"3BTEL", "materia":"Matemática"},{"turma":"2BTEL", "materia":"Matemática"},{"turma":"3BSEG", "materia":"Matemática"}],
   "titulação": "Mestre"
  },
  {
@@ -86,7 +86,7 @@
   "siape": "1620738",
   "admissao": "26\/12\/2008",
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"1AELT", "materia":"Mat. Instr."},{"turma":"1BEL", "materia":"Mat. Instr."},{"turma":"1BADM", "materia":"Mat. A"},{"turma":"1BINFO", "materia":"Mat. B"},{"turma":"1BSEG", "materia":"Mat. B"},{"turma":"1BADM", "materia":"Mat. B"}],
   "titulação": "Doutor"
  },
  {
@@ -96,7 +96,7 @@
   "siape": "2360732",
   "admissao": null,
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"2AMET", "materia":"Mat. Instr."},{"turma":"1BTEL", "materia":"Mat. A"},{"turma":"1BINFO", "materia":"Mat. A"},{"turma":"1BINFO", "materia":"Mat. Instr."},{"turma":"1BED", "materia":"Mat. Instr."},{"turma":"2AMEC", "materia":"Matemática"},{"turma":"1AEL", "materia":"Mat. A"}],
   "titulação": "Mestre"
  },
  {
@@ -106,7 +106,7 @@
   "siape": "1080696",
   "admissao": "26\/02\/2014",
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"4AINFO", "materia":"Matemática"},{"turma":"1BTEL", "materia":"Mat. Instr."},{"turma":"4ATUR", "materia":"Matemática"},{"turma":"3BMEC", "materia":"Mat. Instr."},{"turma":"3AELT", "materia":"Matemática"},{"turma":"1AEL", "materia":"Mat. Instr."}],
   "titulação": "Mestre"
  },
  {
@@ -116,7 +116,7 @@
   "siape": "2095931",
   "admissao": "26\/02\/2014",
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"1BELT", "materia":"Mat. B"},{"turma":"4BINFO", "materia":"Matemática"},{"turma":"1BED", "materia":"Mat. B"},{"turma":"3AMET", "materia":"Matemática"},{"turma":"1AEST", "materia":"Mat. A"},{"turma":"1AELT", "materia":"Mat. A"},{"turma":"2BADM", "materia":"Matemática"}],
   "titulação": "Mestre"
  },
  {
@@ -126,7 +126,7 @@
   "siape": "390738",
   "admissao": null,
   "ultimaProg": null,
- "turmas": [{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""},{"turma":"", "materia":""}],
+ "turmas": [{"turma":"3AEL", "materia":"Matemática"},{"turma":"3BADM", "materia":"Matemática"},{"turma":"1AMEC", "materia":"Mat. A"},{"turma":"1BMEC", "materia":"Mat. A"},{"turma":"3BED", "materia":"Mat. Instr."},{"turma":"1BEL", "materia":"Mat. A"}],
   "titulação": "Mestre"
  }
 ]

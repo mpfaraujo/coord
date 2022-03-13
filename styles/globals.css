@@ -3,10 +3,10 @@
     margin:0;
     padding:0;
 }
-body>div{
+/* body>div{
     background: lightgray;
     display:flex;
-}
+} */
 @page {
     size: A4;
     margin: 0;
