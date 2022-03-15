@@ -1,6 +1,7 @@
 [
-  { "id":"jkidfgksdfg", 
-    "curso":  "Administração",
+  {
+    "id": "jkidfgksdfg",
+    "curso": "Administração",
     "Série": "1a",
     "turma": "1BADM",
     "matéria": "Mat. A",
@@ -8,25 +9,25 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Celso",
-    "sala": "",
+    "sala": "D312",
     "PPC": ""
   },
   {
     "turma": "1BADM",
-    "id":"njhjol", 
-    "curso":  "Administração",
+    "id": "njhjol",
+    "curso": "Administração",
     "Série": "1a",
     "matéria": "Mat. B",
     "aulas": "Sex",
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Celso",
-    "sala": "",
+    "sala": "D312",
     "PPC": ""
   },
   {
-    "id":"rtghjmkghjkio", 
-    "curso":  "Administração",
+    "id": "rtghjmkghjkio",
+    "curso": "Administração",
     "Série": "2a",
     "turma": "2BADM",
     "matéria": "Matemática",
@@ -34,12 +35,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Paulo Cesar",
-    "sala": "",
+    "sala": "B205",
     "PPC": ""
   },
   {
-    "id":"tyhjuiklçikm", 
-    "curso":  "Administração",
+    "id": "tyhjuiklçikm",
+    "curso": "Administração",
     "Série": "2a",
     "turma": "2BADM",
     "matéria": "Mat. Instr.",
@@ -47,12 +48,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Wellington",
-    "sala": "",
+    "sala": "B205",
     "PPC": ""
   },
   {
-    "id":"qazsdcrf", 
-    "curso":  "Administração",
+    "id": "qazsdcrf",
+    "curso": "Administração",
     "Série": "3a",
     "turma": "3BADM",
     "matéria": "Matemática",
@@ -60,12 +61,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Sergio",
-    "sala": "",
+    "sala": "B203",
     "PPC": ""
   },
   {
-    "id":"nbvnbvrfyg", 
-    "curso":  "Edificações",
+    "id": "nbvnbvrfyg",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1AED",
     "matéria": "Mat. A",
@@ -73,12 +74,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Robson",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"ukjyjkfjaswewer", 
-    "curso":  "Edificações",
+    "id": "ukjyjkfjaswewer",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1AED",
     "matéria": "Mat. B",
@@ -86,12 +87,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Marcos Paulo",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"wertwertwertbwertwerte", 
-    "curso":  "Edificações",
+    "id": "wertwertwertbwertwerte",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1AED",
     "matéria": "Mat. Instr.",
@@ -99,12 +100,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Carlos",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"tewrtvwetrverwtbe", 
-    "curso":  "Edificações",
+    "id": "tewrtvwetrverwtbe",
+    "curso": "Edificações",
     "Série": "2a",
     "turma": "2AED",
     "matéria": "Matemática",
@@ -112,12 +113,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Gustavo Adolfo",
-    "sala": "",
+    "sala": "D206",
     "PPC": ""
   },
   {
-    "id":"j.kçjl.kjmjkghk", 
-    "curso":  "Edificações",
+    "id": "j.kçjl.kjmjkghk",
+    "curso": "Edificações",
     "Série": "3a",
     "turma": "3AED",
     "matéria": "Matemática",
@@ -125,25 +126,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Robson",
-    "sala": "",
+    "sala": "D322",
     "PPC": ""
   },
   {
-    "id":"wvert23534gre", 
-    "curso":  "Edificações",
-    "Série": "3a",
-    "turma": "3AED",
-    "matéria": "Mat. Instr.",
-    "aulas": "Ter",
-    "tempos": "9h - 10h40min.",
-    "turno": "Manhã",
-    "professor": "Carlos",
-    "sala": "",
-    "PPC": ""
-  },
-  {
-    "id":"sdfb2342345tyyunyuu", 
-    "curso":  "Edificações",
+    "id": "sdfb2342345tyyunyuu",
+    "curso": "Edificações",
     "Série": "4a",
     "turma": "4AED",
     "matéria": "Matemática",
@@ -151,12 +139,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Marcos Paulo",
-    "sala": "",
+    "sala": "Pav. 2 P111",
     "PPC": ""
   },
   {
-    "id":"kigtgtjo5005=3905u=39", 
-    "curso":  "Edificações",
+    "id": "kigtgtjo5005=3905u=39",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1BED",
     "matéria": "Mat. A",
@@ -164,12 +152,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Paulo Cesar",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"fdhgbdfhbfhbhhrtey5634653622", 
-    "curso":  "Edificações",
+    "id": "fdhgbdfhbfhbhhrtey5634653622",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1BED",
     "matéria": "Mat. Instr.",
@@ -177,12 +165,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Diogo",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"345345gtwrtydtysdtsdt", 
-    "curso":  "Edificações",
+    "id": "345345gtwrtydtysdtsdt",
+    "curso": "Edificações",
     "Série": "1a",
     "turma": "1BED",
     "matéria": "Mat. B",
@@ -190,12 +178,12 @@
     "tempos": "15h - 16h40min",
     "turno": "Tarde",
     "professor": "Nilo",
-    "sala": "",
+    "sala": "D306",
     "PPC": ""
   },
   {
-    "id":"435vb235b54g435gv5gbsdtbd", 
-    "curso":  "Edificações",
+    "id": "435vb235b54g435gv5gbsdtbd",
+    "curso": "Edificações",
     "Série": "2a",
     "turma": "2BED",
     "matéria": "Matemática",
@@ -203,12 +191,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Alcindo",
-    "sala": "",
+    "sala": "D206",
     "PPC": ""
   },
   {
-    "id":"3b2543uimp.i", 
-    "curso":  "Edificações",
+    "id": "3b2543uimp.i",
+    "curso": "Edificações",
     "Série": "3a",
     "turma": "3BED",
     "matéria": "Matemática",
@@ -216,25 +204,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Marcelo",
-    "sala": "",
+    "sala": "D322",
     "PPC": ""
   },
   {
-    "id":"rtfzsfcsdferwqqqqwerbtyuthj", 
-    "curso":  "Edificações",
-    "Série": "3a",
-    "turma": "3BED",
-    "matéria": "Mat. Instr.",
-    "aulas": "Ter",
-    "tempos": "15h - 16h40min",
-    "turno": "Tarde",
-    "professor": "Sergio",
-    "sala": "",
-    "PPC": ""
-  },
-  {
-    "id":"hhhhhhhhhhhttttttttttre", 
-    "curso":  "Edificações",
+    "id": "hhhhhhhhhhhttttttttttre",
+    "curso": "Edificações",
     "Série": "4a",
     "turma": "4BED",
     "matéria": "Matemática",
@@ -242,12 +217,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Marcelo",
-    "sala": "",
+    "sala": "Pav. 2 P111",
     "PPC": ""
   },
   {
-    "id":"qqqqqqqqqqqqweer", 
-    "curso":  "Eletrônica",
+    "id": "qqqqqqqqqqqqweer",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1AELT",
     "matéria": "Mat. A",
@@ -259,8 +234,8 @@
     "PPC": ""
   },
   {
-    "id":"kkkkkkkkkkjjjmmmmmmmmmmm", 
-    "curso":  "Eletrônica",
+    "id": "kkkkkkkkkkjjjmmmmmmmmmmm",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1AELT",
     "matéria": "Mat. Instr.",
@@ -268,12 +243,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Celso",
-    "sala": "",
+    "sala": "A307",
     "PPC": ""
   },
   {
-    "id":"rrrrrrrrrrrrrffffffffffdddddddddddd", 
-    "curso":  "Eletrônica",
+    "id": "rrrrrrrrrrrrrffffffffffdddddddddddd",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1AELT",
     "matéria": "Mat. B",
@@ -281,12 +256,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Gustavo Adolfo",
-    "sala": "",
+    "sala": "A307",
     "PPC": ""
   },
   {
-    "id":"ddddddçççççççççççççççççç", 
-    "curso":  "Eletrônica",
+    "id": "ddddddçççççççççççççççççç",
+    "curso": "Eletrônica",
     "Série": "2a",
     "turma": "2AELT",
     "matéria": "Matemática",
@@ -294,12 +269,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Robson",
-    "sala": "",
+    "sala": "A305",
     "PPC": ""
   },
   {
-    "id":"dfgssssssssssstrrrrrrrrrrrr", 
-    "curso":  "Eletrônica",
+    "id": "dfgssssssssssstrrrrrrrrrrrr",
+    "curso": "Eletrônica",
     "Série": "3a",
     "turma": "3AELT",
     "matéria": "Matemática",
@@ -307,12 +282,12 @@
     "tempos": "7h - 8h40min.",
     "turno": "Manhã",
     "professor": "Haroldo",
-    "sala": "",
+    "sala": "A303",
     "PPC": ""
   },
   {
-    "id":"fdddddddddddddddrty455554568", 
-    "curso":  "Eletrônica",
+    "id": "fdddddddddddddddrty455554568",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1BELT",
     "matéria": "Mat. A",
@@ -320,12 +295,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Paulo Cesar",
-    "sala": "",
+    "sala": "A307",
     "PPC": ""
   },
   {
-    "id":"66666666667uuuuuuuuuuuuuuuutttttttttttt", 
-    "curso":  "Eletrônica",
+    "id": "66666666667uuuuuuuuuuuuuuuutttttttttttt",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1BELT",
     "matéria": "Mat. Instr.",
@@ -333,12 +308,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Robson",
-    "sala": "",
+    "sala": "A307",
     "PPC": ""
   },
   {
-    "id":"3333333333333333444444444445tttttttttttyuuuu", 
-    "curso":  "Eletrônica",
+    "id": "3333333333333333444444444445tttttttttttyuuuu",
+    "curso": "Eletrônica",
     "Série": "1a",
     "turma": "1BELT",
     "matéria": "Mat. B",
@@ -346,12 +321,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Nilo",
-    "sala": "",
+    "sala": "A307",
     "PPC": ""
   },
   {
-    "id":"uuuuuuuuuuuu000000000000999999999999uuuuuuuuuu", 
-    "curso":  "Eletrônica",
+    "id": "uuuuuuuuuuuu000000000000999999999999uuuuuuuuuu",
+    "curso": "Eletrônica",
     "Série": "2a",
     "turma": "2BELT",
     "matéria": "Matemática",
@@ -359,12 +334,12 @@
     "tempos": "12h50min - 14h30min",
     "turno": "Tarde",
     "professor": "Nilo",
-    "sala": "",
+    "sala": "A305",
     "PPC": ""
   },
   {
-    "id":"444444rrrrrrrrrryhkiiiiiiiiiiiii", 
-    "curso":  "Eletrônica",
+    "id": "444444rrrrrrrrrryhkiiiiiiiiiiiii",
+    "curso": "Eletrônica",
     "Série": "3a",
     "turma": "3BELT",
     "matéria": "Matemática",
@@ -372,12 +347,12 @@
     "tempos": "15h - 16h40min",
     "turno": "Tarde",
     "professor": "Alcindo",
-    "sala": "",
+    "sala": "A303",
     "PPC": ""
   },
   {
-    "id":"jjjjjjjjjttttttttttttrrrrrrrrrr", 
-    "curso":  "Eletrotécnica",
+    "id": "jjjjjjjjjttttttttttttrrrrrrrrrr",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1AEL",
     "matéria": "Mat. B",
@@ -385,12 +360,12 @@
     "tempos": "9h - 10h40min.",
     "turno": "Manhã",
     "professor": "Marcos Paulo",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"rttttttt43555555555555555", 
-    "curso":  "Eletrotécnica",
+    "id": "rttttttt43555555555555555",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1AEL",
     "matéria": "Mat. A",
@@ -398,12 +373,12 @@
     "tempos": "9h - 10h40min.",
     "turno": "Manhã",
     "professor": "Diogo",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"bbbbbbbbbbbbbbbbbrrrrrrrttttttttttttt", 
-    "curso":  "Eletrotécnica",
+    "id": "bbbbbbbbbbbbbbbbbrrrrrrrttttttttttttt",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1AEL",
     "matéria": "Mat. Instr.",
@@ -411,12 +386,12 @@
     "tempos": "9h - 10h40min.",
     "turno": "Manhã",
     "professor": "Haroldo",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"1111111111118888888888uuuuuuuuuuuuuuutttttttttttrrf", 
-    "curso":  "Eletrotécnica",
+    "id": "1111111111118888888888uuuuuuuuuuuuuuutttttttttttrrf",
+    "curso": "Eletrotécnica",
     "Série": "2a",
     "turma": "2AEL",
     "matéria": "Matemática",
@@ -424,12 +399,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Marcelo",
-    "sala": "",
+    "sala": "D208",
     "PPC": ""
   },
   {
-    "id":"dfgggggggggggggggggddddddddddddddd", 
-    "curso":  "Eletrotécnica",
+    "id": "dfgggggggggggggggggddddddddddddddd",
+    "curso": "Eletrotécnica",
     "Série": "3a",
     "turma": "3AEL",
     "matéria": "Matemática",
@@ -437,12 +412,12 @@
     "tempos": "10h40min. - 12h20min.",
     "turno": "Manhã",
     "professor": "Sergio",
-    "sala": "",
+    "sala": "D326",
     "PPC": ""
   },
   {
-    "id":"ddddddjkkkkkkkkkkkmmmmmmmmmmmmnnnnnnnnbbbbbbbbbr44566232", 
-    "curso":  "Eletrotécnica",
+    "id": "ddddddjkkkkkkkkkkkmmmmmmmmmmmmnnnnnnnnbbbbbbbbbr44566232",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1BEL",
     "matéria": "Mat. A",
@@ -450,12 +425,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Sergio",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"345345hgfghfgkjhjkhjk", 
-    "curso":  "Eletrotécnica",
+    "id": "345345hgfghfgkjhjkhjk",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1BEL",
     "matéria": "Mat. B",
@@ -463,12 +438,12 @@
     "tempos": "16h40min - 18h20min",
     "turno": "Tarde",
     "professor": "Nilo",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"hjkuio678456", 
-    "curso":  "Eletrotécnica",
+    "id": "hjkuio678456",
+    "curso": "Eletrotécnica",
     "Série": "1a",
     "turma": "1BEL",
     "matéria": "Mat. Instr.",
@@ -476,12 +451,12 @@
     "tempos": "15h - 16h40min",
     "turno": "Tarde",
     "professor": "Celso",
-    "sala": "",
+    "sala": "D308",
     "PPC": ""
   },
   {
-    "id":"345gtfdfgdfgdfsedsesssssssssss", 
-    "curso":  "Eletrotécnica",
+    "id": "345gtfdfgdfgdfsedsesssssssssss",
+    "curso": "Eletrotécnica",
     "Série": "2a",
     "turma": "2BEL",
     "matéria": "Matemática",
@@ -489,12 +464,12 @@
     "tempos": "15h - 16h40min",
     "turno": "Tarde",
     "professor": "Wellington",
-    "sala": "",
+    "sala": "D208",
     "PPC": ""
   },
   {
-    "id":"dfghjk88888888888888888888BBBBBBBBBB  ", 
-    "curso":  "Eletrotécnica",
+    "id": "dfghjk88888888888888888888BBBBBBBBBB  ",
+    "curso": "Eletrotécnica",
     "Série": "3a",
     "turma": "3BEL",
     "matéria": "Matemática",
@@ -502,12 +477,12 @@
     "tempos": "15h - 16h40min",
     "turno": "Tarde",
     "professor": "Marcelo",
-    "sala": "",
+    "sala": "D326",
     "PPC": ""
   },
   {
-    "id":"wetrwetrRFERTWERTWERTVEWRWET", 
-    "curso":  "Informática",
+    "id": "wetrwetrRFERTWERTWERTVEWRWET",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1AINFO",
     "matéria": "Mat. B",
@@ -519,8 +494,8 @@
     "PPC": ""
   },
   {
-    "id":"WERTWERTWERTW435345345", 
-    "curso":  "Informática",
+    "id": "WERTWERTWERTW435345345",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1AINFO",
     "matéria": "Mat. A",
@@ -532,8 +507,8 @@
     "PPC": ""
   },
   {
-    "id":"WERTWERTERTERTWERT3453458897897890890", 
-    "curso":  "Informática",
+    "id": "WERTWERTERTERTWERT3453458897897890890",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1AINFO",
     "matéria": "Mat. Instr.",
@@ -545,8 +520,8 @@
     "PPC": ""
   },
   {
-    "id":"LLLLLLLLKKKKKKKKKJJJJJJJJJJJHGFDS44444444", 
-    "curso":  "Informática",
+    "id": "LLLLLLLLKKKKKKKKKJJJJJJJJJJJHGFDS44444444",
+    "curso": "Informática",
     "Série": "2a",
     "turma": "2AINFO",
     "matéria": "Matemática",
@@ -558,8 +533,8 @@
     "PPC": ""
   },
   {
-    "id":"UUUUUUUUUUUUUUUEEEEEEEEEEEE3333333333333", 
-    "curso":  "Informática",
+    "id": "UUUUUUUUUUUUUUUEEEEEEEEEEEE3333333333333",
+    "curso": "Informática",
     "Série": "3a",
     "turma": "3AINFO",
     "matéria": "Matemática",
@@ -571,8 +546,8 @@
     "PPC": ""
   },
   {
-    "id":"23423RTERTERTRETUUUUU", 
-    "curso":  "Informática",
+    "id": "23423RTERTERTRETUUUUU",
+    "curso": "Informática",
     "Série": "4a",
     "turma": "4AINFO",
     "matéria": "Matemática",
@@ -584,8 +559,8 @@
     "PPC": ""
   },
   {
-    "id":"RTYLLLLLLLLLLLLGHÇÇÇÇÇÇÇÇÇÇÇÇÇÇ", 
-    "curso":  "Informática",
+    "id": "RTYLLLLLLLLLLLLGHÇÇÇÇÇÇÇÇÇÇÇÇÇÇ",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1BINFO",
     "matéria": "Mat. Instr.",
@@ -597,8 +572,8 @@
     "PPC": "2020"
   },
   {
-    "id":"ÇÇÇÇÇÇÇÇÇÇÇLKKKKKKKKKKKKKKKYYYYYYYYYYYY55", 
-    "curso":  "Informática",
+    "id": "ÇÇÇÇÇÇÇÇÇÇÇLKKKKKKKKKKKKKKKYYYYYYYYYYYY55",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1BINFO",
     "matéria": "Mat. A",
@@ -610,8 +585,8 @@
     "PPC": "2020"
   },
   {
-    "id":"555555GTTTTTTTTTTRRRRRRRRYE", 
-    "curso":  "Informática",
+    "id": "555555GTTTTTTTTTTRRRRRRRRYE",
+    "curso": "Informática",
     "Série": "1a",
     "turma": "1BINFO",
     "matéria": "Mat. B",
@@ -623,8 +598,8 @@
     "PPC": "2020"
   },
   {
-    "id":"ERTERT", 
-    "curso":  "Informática",
+    "id": "ERTERT",
+    "curso": "Informática",
     "Série": "2a",
     "turma": "2BINFO",
     "matéria": "Matemática",
@@ -636,8 +611,8 @@
     "PPC": "2020"
   },
   {
-    "id":"ERTJYTU78", 
-    "curso":  "Informática",
+    "id": "ERTJYTU78",
+    "curso": "Informática",
     "Série": "3a",
     "turma": "3BINFO",
     "matéria": "Matemática",
@@ -649,8 +624,8 @@
     "PPC": "2020"
   },
   {
-    "id":"678YUIIKLU", 
-    "curso":  "Informática",
+    "id": "678YUIIKLU",
+    "curso": "Informática",
     "Série": "4a",
     "turma": "4BINFO",
     "matéria": "Matemática",
@@ -662,8 +637,8 @@
     "PPC": "2013"
   },
   {
-    "id":"TYU567OYIOUIOUI", 
-    "curso":  "Mecânica",
+    "id": "TYU567OYIOUIOUI",
+    "curso": "Mecânica",
     "Série": "1a",
     "turma": "1AMEC",
     "matéria": "Mat. B",
@@ -675,8 +650,8 @@
     "PPC": "2020"
   },
   {
-    "id":"UOIUIOUIO867867567456435", 
-    "curso":  "Mecânica",
+    "id": "UOIUIOUIO867867567456435",
+    "curso": "Mecânica",
     "Série": "1a",
     "turma": "1AMEC",
     "matéria": "Mat. A",
@@ -688,8 +663,8 @@
     "PPC": "2020"
   },
   {
-    "id":"456456UTYUTYTYJKHJKHJKHJKMNBNMBNMBN", 
-    "curso":  "Mecânica",
+    "id": "456456UTYUTYTYJKHJKHJKHJKMNBNMBNMBN",
+    "curso": "Mecânica",
     "Série": "2a",
     "turma": "2AMEC",
     "matéria": "Matemática",
@@ -701,8 +676,8 @@
     "PPC": "2020"
   },
   {
-    "id":"BNMBNMGHJGHDFGSDSADSA233", 
-    "curso":  "Mecânica",
+    "id": "BNMBNMGHJGHDFGSDSADSA233",
+    "curso": "Mecânica",
     "Série": "3a",
     "turma": "3AMEC",
     "matéria": "Matemática",
@@ -714,8 +689,8 @@
     "PPC": "2020"
   },
   {
-    "id":"4444444RRRRRRRRRRREEEEEEWWWWWWW", 
-    "curso":  "Mecânica",
+    "id": "4444444RRRRRRRRRRREEEEEEWWWWWWW",
+    "curso": "Mecânica",
     "Série": "3a",
     "turma": "3AMEC",
     "matéria": "Mat. Instr.",
@@ -727,8 +702,8 @@
     "PPC": "2020"
   },
   {
-    "id":"WERWERWERWERWER", 
-    "curso":  "Mecânica",
+    "id": "WERWERWERWERWER",
+    "curso": "Mecânica",
     "Série": "1a",
     "turma": "1BMEC",
     "matéria": "Mat. A",
@@ -740,8 +715,8 @@
     "PPC": "2020"
   },
   {
-    "id":"WERWER687878787878", 
-    "curso":  "Mecânica",
+    "id": "WERWER687878787878",
+    "curso": "Mecânica",
     "Série": "1a",
     "turma": "1BMEC",
     "matéria": "Mat. B",
@@ -753,8 +728,8 @@
     "PPC": "2020"
   },
   {
-    "id":"7878787JYGHJGHJGHJGH", 
-    "curso":  "Mecânica",
+    "id": "7878787JYGHJGHJGHJGH",
+    "curso": "Mecânica",
     "Série": "2a",
     "turma": "2BMEC",
     "matéria": "Matemática",
@@ -766,8 +741,8 @@
     "PPC": "2020"
   },
   {
-    "id":"2342342FGFDGFDGDFG", 
-    "curso":  "Mecânica",
+    "id": "2342342FGFDGFDGDFG",
+    "curso": "Mecânica",
     "Série": "3a",
     "turma": "3BMEC",
     "matéria": "Mat. Instr.",
@@ -779,8 +754,8 @@
     "PPC": "2020"
   },
   {
-    "id":"345345TYU7898", 
-    "curso":  "Mecânica",
+    "id": "345345TYU7898",
+    "curso": "Mecânica",
     "Série": "3a",
     "turma": "3BMEC",
     "matéria": "Matemática",
@@ -792,8 +767,8 @@
     "PPC": "2020"
   },
   {
-    "id":"TYUFDDFGDFGDFGWWWWW22", 
-    "curso":  "Meteorologia",
+    "id": "TYUFDDFGDFGDFGWWWWW22",
+    "curso": "Meteorologia",
     "Série": "1a",
     "turma": "1AMET",
     "matéria": "Mat. A",
@@ -805,8 +780,8 @@
     "PPC": "2020"
   },
   {
-    "id":"43534JUTYTUYUIUOIOPOPO", 
-    "curso":  "Meteorologia",
+    "id": "43534JUTYTUYUIUOIOPOPO",
+    "curso": "Meteorologia",
     "Série": "1a",
     "turma": "1AMET",
     "matéria": "Mat. B",
@@ -818,8 +793,8 @@
     "PPC": "2020"
   },
   {
-    "id":"OOOOOOOOOOOPPPPPPIIIIIIIIIYUUUUUUUU", 
-    "curso":  "Meteorologia",
+    "id": "OOOOOOOOOOOPPPPPPIIIIIIIIIYUUUUUUUU",
+    "curso": "Meteorologia",
     "Série": "2a",
     "turma": "2AMET",
     "matéria": "Mat. Instr.",
@@ -831,8 +806,8 @@
     "PPC": "2020"
   },
   {
-    "id":"TTTTTTTEEEEEEEE444444444666636345645745", 
-    "curso":  "Meteorologia",
+    "id": "TTTTTTTEEEEEEEE444444444666636345645745",
+    "curso": "Meteorologia",
     "Série": "2a",
     "turma": "2AMET",
     "matéria": "Matemática",
@@ -844,8 +819,8 @@
     "PPC": ""
   },
   {
-    "id":"746767567456TYUTYJTRYUTY", 
-    "curso":  "Meteorologia",
+    "id": "746767567456TYUTYJTRYUTY",
+    "curso": "Meteorologia",
     "Série": "3a",
     "turma": "3AMET",
     "matéria": "Matemática",
@@ -857,8 +832,8 @@
     "PPC": "2020"
   },
   {
-    "id":"MMHDSDSDNnNNNNnnnnsnnsnnsn", 
-    "curso":  "Estradas",
+    "id": "MMHDSDSDNnNNNNnnnnsnnsnnsn",
+    "curso": "Estradas",
     "Série": "1a",
     "turma": "1AEST",
     "matéria": "Mat. Instr.",
@@ -870,8 +845,8 @@
     "PPC": "2020"
   },
   {
-    "id":"sfgfsfghfghDFGSDGDFGSDFGERT34T34", 
-    "curso":  "Estradas",
+    "id": "sfgfsfghfghDFGSDGDFGSDFGERT34T34",
+    "curso": "Estradas",
     "Série": "1a",
     "turma": "1AEST",
     "matéria": "Mat. A",
@@ -883,8 +858,8 @@
     "PPC": "2020"
   },
   {
-    "id":"6U7KIL", 
-    "curso":  "Estradas",
+    "id": "6U7KIL",
+    "curso": "Estradas",
     "Série": "1a",
     "turma": "1AEST",
     "matéria": "Mat. B",
@@ -896,8 +871,8 @@
     "PPC": "2020"
   },
   {
-    "id":"OLKIJUY", 
-    "curso":  "Estradas",
+    "id": "OLKIJUY",
+    "curso": "Estradas",
     "Série": "2a",
     "turma": "2AEST",
     "matéria": "Matemática",
@@ -909,8 +884,8 @@
     "PPC": "2020"
   },
   {
-    "id":"0ÇOU", 
-    "curso":  "Estradas",
+    "id": "0ÇOU",
+    "curso": "Estradas",
     "Série": "3a",
     "turma": "3AEST",
     "matéria": "Matemática",
@@ -922,8 +897,8 @@
     "PPC": "2020"
   },
   {
-    "id":"UYJKHJKGHJK342624564256", 
-    "curso":  "Estradas",
+    "id": "UYJKHJKGHJK342624564256",
+    "curso": "Estradas",
     "Série": "4a",
     "turma": "4AEST",
     "matéria": "Matemática",
@@ -935,8 +910,8 @@
     "PPC": "2013"
   },
   {
-    "id":"2762472472184628", 
-    "curso":  "Eventos/Turismo",
+    "id": "2762472472184628",
+    "curso": "Eventos/Turismo",
     "Série": "1a",
     "turma": "1AEVE",
     "matéria": "Mat. Instr.",
@@ -948,8 +923,8 @@
     "PPC": "2020"
   },
   {
-    "id":"4257457457FTHFD", 
-    "curso":  "Eventos/Turismo",
+    "id": "4257457457FTHFD",
+    "curso": "Eventos/Turismo",
     "Série": "1a",
     "turma": "1AEVE",
     "matéria": "Mat. A",
@@ -961,8 +936,8 @@
     "PPC": "2020"
   },
   {
-    "id":"191919165MHYNTYU", 
-    "curso":  "Eventos/Turismo",
+    "id": "191919165MHYNTYU",
+    "curso": "Eventos/Turismo",
     "Série": "1a",
     "turma": "1AEVE",
     "matéria": "Mat. B",
@@ -974,8 +949,8 @@
     "PPC": "2020"
   },
   {
-    "id":"683568356MNTYUYGUFGTYU", 
-    "curso":  "Eventos/Turismo",
+    "id": "683568356MNTYUYGUFGTYU",
+    "curso": "Eventos/Turismo",
     "Série": "2a",
     "turma": "2AEVE",
     "matéria": "Matemática",
@@ -987,8 +962,8 @@
     "PPC": "2020"
   },
   {
-    "id":"7M65M67567MMJUYUYTYU", 
-    "curso":  "Eventos/Turismo",
+    "id": "7M65M67567MMJUYUYTYU",
+    "curso": "Eventos/Turismo",
     "Série": "2a",
     "turma": "2AEVE",
     "matéria": "Mat. Instr.",
@@ -1000,8 +975,8 @@
     "PPC": "2020"
   },
   {
-    "id":"4577657567567", 
-    "curso":  "Eventos/Turismo",
+    "id": "4577657567567",
+    "curso": "Eventos/Turismo",
     "Série": "3a",
     "turma": "3AEVE",
     "matéria": "Matemática",
@@ -1013,8 +988,8 @@
     "PPC": "2020"
   },
   {
-    "id":"JHH11111111111", 
-    "curso":  "Eventos/Turismo",
+    "id": "JHH11111111111",
+    "curso": "Eventos/Turismo",
     "Série": "4a",
     "turma": "4ATUR",
     "matéria": "Matemática",
@@ -1026,8 +1001,8 @@
     "PPC": "2013"
   },
   {
-    "id":"1111222223EEEEEEEEEEEEEEE", 
-    "curso":  "Segurança do Trabalho",
+    "id": "1111222223EEEEEEEEEEEEEEE",
+    "curso": "Segurança do Trabalho",
     "Série": "1a",
     "turma": "1BSEG",
     "matéria": "Mat. B",
@@ -1039,8 +1014,8 @@
     "PPC": "2020"
   },
   {
-    "id":"66777777777778HYYYYYYYYYYY", 
-    "curso":  "Segurança do Trabalho",
+    "id": "66777777777778HYYYYYYYYYYY",
+    "curso": "Segurança do Trabalho",
     "Série": "1a",
     "turma": "1BSEG",
     "matéria": "Mat. A",
@@ -1052,8 +1027,8 @@
     "PPC": "2020"
   },
   {
-    "id":"22222333333GGGGGGGWWWWWWWWWW", 
-    "curso":  "Segurança do Trabalho",
+    "id": "22222333333GGGGGGGWWWWWWWWWW",
+    "curso": "Segurança do Trabalho",
     "Série": "2a",
     "turma": "2BSEG",
     "matéria": "Matemática",
@@ -1065,8 +1040,8 @@
     "PPC": "2020"
   },
   {
-    "id":"WWWWWWWWWWWWW3333333333GGGGGGGGGG", 
-    "curso":  "Segurança do Trabalho",
+    "id": "WWWWWWWWWWWWW3333333333GGGGGGGGGG",
+    "curso": "Segurança do Trabalho",
     "Série": "2a",
     "turma": "2BSEG",
     "matéria": "Mat. Instr.",
@@ -1078,8 +1053,8 @@
     "PPC": "2020"
   },
   {
-    "id":"KKKKKKKKKKIIIIIIIIIIILLLLLLLLLLLÇÇÇÇÇÇÇÇÇÇÇÇ", 
-    "curso":  "Segurança do Trabalho",
+    "id": "KKKKKKKKKKIIIIIIIIIIILLLLLLLLLLLÇÇÇÇÇÇÇÇÇÇÇÇ",
+    "curso": "Segurança do Trabalho",
     "Série": "3a",
     "turma": "3BSEG",
     "matéria": "Matemática",
@@ -1091,8 +1066,8 @@
     "PPC": "2017"
   },
   {
-    "id":"11111111111GFDGSDFGSDFGSD", 
-    "curso":  "Telecomunicações",
+    "id": "11111111111GFDGSDFGSDFGSD",
+    "curso": "Telecomunicações",
     "Série": "1a",
     "turma": "1BTEL",
     "matéria": "Mat. A",
@@ -1104,8 +1079,8 @@
     "PPC": "2020"
   },
   {
-    "id":"12456HJHFGHJFGHJMNXZVSADFASDFASDFKkKkKKAKAKAAKKAKAy", 
-    "curso":  "Telecomunicações",
+    "id": "12456HJHFGHJFGHJMNXZVSADFASDFASDFKkKkKKAKAKAAKKAKAy",
+    "curso": "Telecomunicações",
     "Série": "1a",
     "turma": "1BTEL",
     "matéria": "Mat. Instr.",
@@ -1117,8 +1092,8 @@
     "PPC": "2020"
   },
   {
-    "id":"DGHGHÇÇ11111111111", 
-    "curso":  "Telecomunicações",
+    "id": "DGHGHÇÇ11111111111",
+    "curso": "Telecomunicações",
     "Série": "1a",
     "turma": "1BTEL",
     "matéria": "Mat. B",
@@ -1130,8 +1105,8 @@
     "PPC": "2020"
   },
   {
-    "id":"243245345345GHFGHFGHFGHFGHFGGH", 
-    "curso":  "Telecomunicações",
+    "id": "243245345345GHFGHFGHFGHFGHFGGH",
+    "curso": "Telecomunicações",
     "Série": "2a",
     "turma": "2BTEL",
     "matéria": "Matemática",
@@ -1143,8 +1118,8 @@
     "PPC": "2020"
   },
   {
-    "id":"MNBNBNMBRRTYRTRTYRTY666666", 
-    "curso":  "Telecomunicações",
+    "id": "MNBNBNMBRRTYRTRTYRTY666666",
+    "curso": "Telecomunicações",
     "Série": "3a",
     "turma": "3BTEL",
     "matéria": "Matemática",
